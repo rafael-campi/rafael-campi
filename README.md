@@ -21,7 +21,7 @@
 
   <img align="center" alt="Rafa-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/87453247?v=4">
+ <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/87453247?v=4">-->
 </div>
   
   ##
